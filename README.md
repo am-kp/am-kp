@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @am-kp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m amkyp  •͜ •
+- 👀 I’m interested in NLP and Languages.
+- 🌱 I’m currently learning NLP.
+- 💞️ I’m looking to collaborate on NLP projects.
+- 📫 Reach me via `amkyp@proton.me`
 
 <!---
-am-kp/am-kp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
