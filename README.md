@@ -1,8 +1,6 @@
-- 👋 Hi, I’m amkyp  •͜ •
-- 👀 I’m interested in NLP and Languages.
-- 🌱 I’m currently learning NLP.
-- 💞️ I’m looking to collaborate on NLP projects.
-- 📫 Reach me via `amkyp@proton.me`
+- 👋 Hi  •͜ •
+- 👀 I’m interested in AI and more.
+- 🌱 I’m currently upgrading my ML skills.
 
 <!---
 a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
